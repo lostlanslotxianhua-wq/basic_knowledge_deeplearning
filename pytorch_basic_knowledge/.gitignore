@@ -1,0 +1,6 @@
+# 忽略 TensorBoard 生成的日志文件夹，缓存等文件
+pytorch_basic_knowledge/runs/
+logs/
+__pycache__/
+*.pyc
+.vscode/
